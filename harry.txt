@@ -1,8 +1,1 @@
-code with harry git tutorials
-Punchu == Hello World
-pushed to stagong area
-
-practicing git diff
-
-skipping the staging area 1
-skipping the staging area 2 
+bimal is guruji
