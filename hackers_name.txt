@@ -6,3 +6,10 @@ Developers of WE4TECH
 5. Bimal Shrestha
 6. Chetan Budathoki
 7. Naarayan Shrestha 
+
+Hacker's Skill
+1. Javascript
+2. Flutter
+3. Python
+4. C/C++
+5. PHP
